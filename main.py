@@ -31,7 +31,7 @@ proxies={"http": 'http://' + next(proxs)}
 
 
 os.system("clear")
-risinencrypt = "mfa.ot2pClisQZrGnNkAIEyidaxD-xrnTQvyrrUyihlVz68fhODgU5VpyBvdtaRIPg3Vcf7oiGBqVWYeTGciyP1n" #token
+risinencrypt = "OTAxNzg2NjExMjgzNTI5NzYw.Gd87jt.Ioa-or6tMXDtw456M7Ok2mvJ4iZ-AeT_QzkCK8" #token
 risinencrypt1 = ">" #prefix
 risinencrypt2 = "" #password
 rich_presence = "y" #rpc
